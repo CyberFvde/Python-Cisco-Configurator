@@ -15,7 +15,6 @@ Run the script by running python cisco_switch_configurator.py in your terminal.
 Enter the IP address or hostname of the Cisco switch you want to configure, along with your username and password.
 Enter the commands you want to execute on the Cisco switch, one per line.
 Click the "Execute" button to execute the commands on the Cisco switch.
-Notes
 
 This script is designed to work with Cisco switches that support SSH. It may not work with other types of devices.
 Use this script at your own risk. Make sure you have backups of your configuration files before running any commands on your Cisco switches.
